@@ -14,5 +14,6 @@ public class LocalBook extends Book{
 
     public LocalBook(String author, String title, String store) {
         super(author, title);
+        this.store = store;
     }
 }

@@ -20,7 +20,6 @@ import static org.mockito.MockitoAnnotations.initMocks;
 
 public class CapitalizationTest {
 
-    @InjectMocks
     private Capitalization capitalization;
 
     @Before
